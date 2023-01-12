@@ -1,0 +1,63 @@
+body { 
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.6;
+    font-size: 18px;
+    color: white;
+    padding: 0;
+    background-color: black;
+    }
+
+.mfw, .tbmfw {
+    color: #b00000
+}
+
+.wrong{
+    color: #d24637;
+    text-decoration: underline; 
+}
+
+.shittyblue{
+    color: #00e
+}
+
+.violetishcolor{
+    color: #551a8b
+}
+
+.vlc{
+    color: #941352
+}
+
+.dgrey{
+    color: #444
+}
+
+.dgrey:before{
+    content:"";
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background-color: #444;  
+}
+
+.lgrey{
+    color: #454545
+}
+
+.lgrey:before{
+    content:"";
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background-color: #454545;   
+}
+
+a:link {
+  color: #00a2e7
+}
+
+a:visited {
+  color: #ca1a70
+}
