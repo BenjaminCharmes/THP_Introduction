@@ -22,7 +22,7 @@ This is my repository for all my projects during the coding bootcamp at [The Hac
 ### [:heavy_check_mark: **Week 1:** Introduction Week](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1)
 
 - [**Day 1:** Start learning HTML, CSS and create the first page: MotherFuckingWebsite with 3 different versions](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_1)
-- [**Day 2:** Validating project: Reproduce google page](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_2)
+- [**Day 2:** Reproduce google home page](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_2)
 - [**Day 3:** Start learning git, github and deploy online google page of day 2 with Github pages](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_3)
 - [**Day 4:** Start learning bootstrap and create our page startup](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_4)
 - [*Day 5:* Create a landing page](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_5)
