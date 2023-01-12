@@ -1,4 +1,4 @@
-<h1 align="center">Day 1 of The Hacking Project: Make your first web page!</h1>
+<h1 align="center">Day 1 of The Hacking Project: Make your first web page !</h1>
 
 The best way to learn how to use HTML / CSS is to reproduce web pages.
 In this project we will ask you to code your first three web pages:
