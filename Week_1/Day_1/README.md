@@ -9,4 +9,8 @@ In this project we will ask you to code your first three web pages:
 
 <h2 align="center">🎉 Week 1: Day 1 of the Introduction training 🎉</h2>
 
+[➡️ - Day 2️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_2)
+
+[🔙 - Back to week 1️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1)
+
 [🔙 - Back to home page](https://github.com/BenjaminCharmes/THP_Introduction)
