@@ -11,7 +11,7 @@ In this project we will ask you to code your first three web pages:
 
 <div align="center">
   
-  [➡️ - Next day: Day 2️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_2)
+  [➡️ - Go to Day 2️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_2)
 
 </div>
 
