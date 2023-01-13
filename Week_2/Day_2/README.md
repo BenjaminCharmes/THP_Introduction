@@ -1,4 +1,4 @@
-<h1 align="center">Day 7 of The Hacking Project: Itsa me, Mario ! !</h1>
+<h1 align="center">Day 7 of The Hacking Project: Itsa me, Mario !</h1>
 
 We will do another series of exercises in Ruby
 
