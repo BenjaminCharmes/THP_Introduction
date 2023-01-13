@@ -1,8 +1,6 @@
-<h1 align="center">Day 2 of The Hacking Project: Itsa me, Mario !</h1>
+<h1 align="center">Week 2 of The Hacking Project: Itsa me, Mario ! !</h1>
 
 We will do another series of exercises in Ruby
-
-<h2 align="center">🎉 Week 2: Day 2 of the Introduction training 🎉</h2>
 
 <div align="center">
   
@@ -14,7 +12,7 @@ We will do another series of exercises in Ruby
 
 <div align="center">
 
-  [🔙 - Back to week 1️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_2)
+  [🔙 - Back to week 2️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_2)
 
   [🔙 - Back to home page](https://github.com/BenjaminCharmes/THP_Introduction)
 
