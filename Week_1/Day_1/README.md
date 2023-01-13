@@ -13,6 +13,10 @@ In this project we will ask you to code your first three web pages:
   <a href="https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_2" target="_blank">➡️ - Next day: Day 2️⃣</a>
 </div>
 
-[🔙 - Back to week 1️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1)
+<div align="center">
 
-[🔙 - Back to home page](https://github.com/BenjaminCharmes/THP_Introduction)
+  [🔙 - Back to week 1️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1)
+
+  [🔙 - Back to home page](https://github.com/BenjaminCharmes/THP_Introduction)
+
+</div>
