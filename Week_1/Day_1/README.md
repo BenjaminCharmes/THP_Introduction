@@ -10,7 +10,9 @@ In this project we will ask you to code your first three web pages:
 <h2 align="center">🎉 Week 1: Day 1 of the Introduction training 🎉</h2>
 
 <div align="right">
-  <a href="https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_2" target="_blank">➡️ - Next day: Day 2️⃣</a>
+
+  [➡️ - Next day: Day 2️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_2)
+  
 </div>
 
 <div align="center">
