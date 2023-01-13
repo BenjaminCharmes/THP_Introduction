@@ -9,9 +9,11 @@ In this project we will ask you to code your first three web pages:
 
 <h2 align="center">🎉 Week 1: Day 1 of the Introduction training 🎉</h2>
 
-<div style="display: flex; justify-content: space-between;">
+<div align="center">
   
   [➡️ - Next day: Day 2️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_2)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   [➡️ - Next day: Day 2️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_2)
 
