@@ -4,4 +4,16 @@ The project of a whole week! We are going to make a presentation page for an org
 
 <h2 align="center">🎉 Week 1: Day 5 of the Introduction training 🎉</h2>
 
-[🔙 - Back to home page](https://github.com/BenjaminCharmes/THP_Introduction)
+<div align="center">
+  
+  [⬅️ - Back to Day 4️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_4)
+
+</div>
+
+<div align="center">
+
+  [🔙 - Back to week 1️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1)
+
+  [🔙 - Back to home page](https://github.com/BenjaminCharmes/THP_Introduction)
+
+</div>
