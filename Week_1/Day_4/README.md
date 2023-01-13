@@ -4,4 +4,18 @@ We will have to redesign the homepage of The Surfing Project, a decentralized co
 
 <h2 align="center">🎉 Week 1: Day 4 of the Introduction training 🎉</h2>
 
-[🔙 - Back to home page](https://github.com/BenjaminCharmes/THP_Introduction)
+<div align="center">
+  
+  [⬅️ - Back to Day 3️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_3)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [➡️ - Go to Day 5️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_5)
+
+</div>
+
+<div align="center">
+
+  [🔙 - Back to week 1️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1)
+
+  [🔙 - Back to home page](https://github.com/BenjaminCharmes/THP_Introduction)
+
+</div>
