@@ -8,7 +8,7 @@ We will have to redesign the homepage of The Surfing Project, a decentralized co
   
   [⬅️ - Back to Day 3️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_3)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [➡️ - Go to Day 5️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_5)
+  [Go to Day 5️⃣ - ➡️](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_5)
 
 </div>
 

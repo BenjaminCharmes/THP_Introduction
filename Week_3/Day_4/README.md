@@ -8,7 +8,7 @@ Now that we are starting to understand how to parse a web page, let's scrape our
   
   [⬅️ - Back to Day 3️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_3/Day_3)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [➡️ - Go to Day 5️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_3/Day_5)
+  [Go to Day 5️⃣ - ➡️](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_3/Day_5)
 
 </div>
 

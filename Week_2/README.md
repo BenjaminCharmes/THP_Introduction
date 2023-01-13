@@ -6,7 +6,7 @@ Loops and variables! During this part of the course, we will discover the joys o
   
   [⬅️ - Back to Week 1️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [➡️ - Go to Week 3️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_3)
+  [Go to Week 3️⃣ - ➡️](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_3)
 
 </div>
 

@@ -8,7 +8,7 @@ Have you always wondered how one made twitter bots that spammed the whole world?
   
   [⬅️ - Back to Day 2️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_3/Day_2)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [➡️ - Go to Day 4️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_3/Day_4)
+  [Go to Day 4️⃣ - ➡️](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_3/Day_4)
 
 </div>
 

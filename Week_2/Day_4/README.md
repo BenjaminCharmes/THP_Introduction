@@ -8,7 +8,7 @@ In this project we'll be manipulating arrays and hashes containing hundreds of e
   
   [⬅️ - Back to Day 3️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_2/Day_3)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [➡️ - Go to Day 5️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_2/Day_5)
+  [Go to Day 5️⃣ - ➡️](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_2/Day_5)
 
 </div>
 

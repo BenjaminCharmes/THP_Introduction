@@ -8,7 +8,7 @@ Now that we know how to run a program in Ruby, and we have a basic understanding
   
   [⬅️ - Back to Day 1️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_3/Day_1)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [➡️ - Go to Day 3️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_3/Day_3)
+  [Go to Day 3️⃣ - ➡️](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_3/Day_3)
 
 </div>
 

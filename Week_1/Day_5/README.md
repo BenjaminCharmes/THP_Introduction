@@ -8,7 +8,7 @@ The project of a whole week! We are going to make a presentation page for an org
   
   [⬅️ - Back to Day 4️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_4)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [➡️ - Go to Week 2️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_2)
+  [Go to Week 2️⃣ - ➡️](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_2)
 
 </div>
 

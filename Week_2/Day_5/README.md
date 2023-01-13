@@ -12,7 +12,7 @@ Today we will do Kata on [Codewars](https://www.codewars.com/users/BenjaminCharm
   
   [⬅️ - Back to Day 4️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_2/Day_4)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [➡️ - Go to Week 3️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_3)
+  [Go to Week 3️⃣ - ➡️](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_3)
 
 </div>
 

@@ -9,7 +9,7 @@ So there won't be much in this folder. 🤷‍♂️
   
   [⬅️ - Back to Day 2️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_2)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [➡️ - Go to Day 4️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_4)
+  [Go to Day 4️⃣ - ➡️](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_4)
 
 </div>
 

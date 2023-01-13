@@ -8,7 +8,7 @@ We will do another series of exercises in Ruby
   
   [⬅️ - Back to Day 1️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_2/Day_1)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [➡️ - Go to Day 3️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_2/Day_3)
+  [Go to Day 3️⃣ - ➡️](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_2/Day_3)
 
 </div>
 
