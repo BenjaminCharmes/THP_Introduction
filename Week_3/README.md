@@ -22,6 +22,6 @@ That's it! After days of hard work, we will see how to use computers to automate
 
   [🔙 - Back to home page](https://github.com/BenjaminCharmes/THP_Introduction)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [Go to the next training - ➡️](ttps://github.com/BenjaminCharmes/THP_FullStack)
+  [Go to the next training - ➡️](https://github.com/BenjaminCharmes/THP_FullStack)
 
 </div>
