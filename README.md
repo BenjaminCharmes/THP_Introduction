@@ -14,8 +14,7 @@
 
 ## Introduction Training
 
-This is my repository for all my projects during the coding bootcamp at [The Hacking Project](https://www.thehackingproject.org/):
-3 intense weeks in bootcamp to learn how to create a simple website, automate recurring tasks and understand the challenges of code.
+Here is the repository of all my projects from the Introduction training at [The Hacking Project](https://www.thehackingproject.org/): 3 intense weeks in bootcamp to learn how to create a simple website, automate recurring tasks and understand the challenges of code.
 
 ## :chart_with_upwards_trend: Training program
 
