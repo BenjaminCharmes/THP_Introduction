@@ -2,6 +2,8 @@
 
 Loops and variables! During this part of the course, we will discover the joys of coding by making our first real programs. It is an abstract part, but it has the merit of making us understand how a computer program works.
 
+<h2 align="center">🎉 Week 2 of the Introduction training 🎉</h2>
+
 <div align="center">
   
   [⬅️ - Back to Week 1️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1)

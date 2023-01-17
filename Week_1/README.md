@@ -4,6 +4,8 @@ The first two days are an introduction to our training. We meet the community, t
 
 Over the next three days we'll see how to get a site online with GitHub, a powerful project collaboration tool. We'll also look at Terminal, a powerful tool that developers use. We'll see how to make mobile-friendly sites with Boostrap, and then we'll get some design tips to make your site look great.
 
+<h2 align="center">🎉 Week 1 of the Introduction training 🎉</h2>
+
 <div align="center">
 
   [Go to Day 1️⃣ - ➡️](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1/Day_1)
