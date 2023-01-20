@@ -12,6 +12,18 @@
 
 ---
 
+<p align="center">
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"/> </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> </a>
+</p>
+
+---
+
 ## Introduction Training
 
 Here is the repository of all my projects from the Introduction training at [The Hacking Project](https://www.thehackingproject.org/): 3 intense weeks in bootcamp to learn how to create a simple website, automate recurring tasks and understand the challenges of code.
