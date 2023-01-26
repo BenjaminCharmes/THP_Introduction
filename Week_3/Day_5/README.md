@@ -7,6 +7,8 @@ We are going to make a program that will run a Google search, as well as a progr
 <div align="center">
   
   [⬅️ - Back to Day 4️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_3/Day_4)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [Go to the next training - ➡️](https://github.com/BenjaminCharmes/THP_FullStack)
 
 </div>
 
