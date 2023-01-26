@@ -6,6 +6,8 @@ This project allows you to understand the wonderful world of testing, while doin
 
 <div align="center">
   
+  [⬅️ - Back to Week 2️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [Go to Day 2️⃣ - ➡️](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_3/Day_2)
 
 </div>

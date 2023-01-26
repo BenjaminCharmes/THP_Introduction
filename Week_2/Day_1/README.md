@@ -6,6 +6,8 @@ We are going to do a series of exercises that will end with a very famous pyrami
 
 <div align="center">
   
+  [⬅️ - Back to Week 1️⃣](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_1)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [Go to Day 2️⃣ - ➡️](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_2/Day_2)
 
 </div>
