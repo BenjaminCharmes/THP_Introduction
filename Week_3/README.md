@@ -7,7 +7,7 @@ That's it! After days of hard work, we will see how to use computers to automate
 
 <div align="center">
   
-  [Go to Day 1️⃣ - ➡️](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_2/Day_1)
+  [Go to Day 1️⃣ - ➡️](https://github.com/BenjaminCharmes/THP_Introduction/tree/main/Week_3/Day_1)
 
 
 </div>
